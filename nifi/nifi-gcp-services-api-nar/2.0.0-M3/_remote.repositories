@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 20 09:41:13 ICT 2025
+nifi-gcp-services-api-nar-2.0.0-M3.nar>=
+nifi-gcp-services-api-nar-2.0.0-M3.pom>=

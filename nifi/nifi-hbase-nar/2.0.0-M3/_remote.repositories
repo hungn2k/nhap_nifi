@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 20 09:40:53 ICT 2025
+nifi-hbase-nar-2.0.0-M3.nar>=
+nifi-hbase-nar-2.0.0-M3.pom>=
