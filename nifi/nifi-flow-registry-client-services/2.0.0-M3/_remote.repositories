@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 20 09:35:24 ICT 2025
+nifi-flow-registry-client-services-2.0.0-M3.jar>=
+nifi-flow-registry-client-services-2.0.0-M3.pom>=

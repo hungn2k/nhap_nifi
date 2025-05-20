@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 20 09:29:15 ICT 2025
+nifi-framework-core-2.0.0-M3.jar>=
+nifi-framework-core-2.0.0-M3.pom>=
