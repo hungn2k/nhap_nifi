@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 20 09:33:00 ICT 2025
+nifi-apicurio-schema-registry-service-2.0.0-M3.jar>=
+nifi-apicurio-schema-registry-service-2.0.0-M3.pom>=
